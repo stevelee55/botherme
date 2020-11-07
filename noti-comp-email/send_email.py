@@ -1,7 +1,4 @@
 
+# from smtplib import SMTP
+import smtplib, ssl
 
-from smtplib import SMTP
-
-
-
-def main(): 
